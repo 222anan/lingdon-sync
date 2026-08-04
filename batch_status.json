@@ -1,16 +1,16 @@
 {
- "updated_at": "2026-08-05 03:13:26",
+ "updated_at": "2026-08-05 03:13:34",
  "running": true,
  "current_title": "",
- "step_index": 11,
+ "step_index": 0,
  "step_total": 12,
  "step_name": "",
  "queue_len": 2,
- "eta": null,
- "done": 0,
- "ok": 0,
+ "eta": 141,
+ "done": 1,
+ "ok": 1,
  "failed": 0,
  "logs": [
-  "[03:11:21] ✅ [1/2] 图片就绪: 美式假两件短袖polo衫男女夏季拼接撞色翻领t恤学院风情侣截半袖 | 类目: 服饰鞋包 > 男装 > POLO衫 > POLO衫"
+  "[03:13:31] ✅ 已上架 [1/2] 美式假两件短袖polo衫男女夏季拼接撞色翻领t恤学院风情侣截半袖"
  ]
 }
