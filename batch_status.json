@@ -1,14 +1,17 @@
 {
- "updated_at": "2026-08-05 11:08:49",
- "running": true,
+ "updated_at": "2026-08-05 11:08:59",
+ "running": false,
  "current_title": "",
  "step_index": 0,
  "step_total": 0,
  "step_name": "",
  "queue_len": 1,
- "eta": null,
- "done": 0,
+ "eta": 0,
+ "done": 1,
  "ok": 0,
- "failed": 0,
- "logs": []
+ "failed": 1,
+ "logs": [
+  "[11:08:51] ❌ [1/1] 采集失败: 采集失败：页面未登录或数据为空。请在Chrome中登录52dsy.com后重试。",
+  "[11:08:51] 🏁 批量任务结束"
+ ]
 }
