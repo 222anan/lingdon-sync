@@ -1,18 +1,14 @@
 {
- "updated_at": "2026-08-05 14:53:32",
+ "updated_at": "2026-08-05 14:53:57",
  "running": false,
  "current_title": "",
  "step_index": 0,
- "step_total": 12,
+ "step_total": 0,
  "step_name": "",
- "queue_len": 2,
- "eta": 0,
- "done": 1,
- "ok": 1,
+ "queue_len": 0,
+ "eta": null,
+ "done": 0,
+ "ok": 0,
  "failed": 0,
- "logs": [
-  "[14:50:45] ✅ 已上架 [1/2] 美式假两件短袖polo衫男款夏季拼接撞色翻领t恤学院风情侣截半袖",
-  "[14:50:45] ⏹ 已取消（第2/2个）",
-  "[14:50:45] 🏁 批量任务结束"
- ]
+ "logs": []
 }
