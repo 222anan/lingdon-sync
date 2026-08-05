@@ -1,14 +1,16 @@
 {
- "updated_at": "2026-08-05 15:57:45",
- "running": false,
+ "updated_at": "2026-08-05 15:59:35",
+ "running": true,
  "current_title": "",
  "step_index": 0,
  "step_total": 0,
  "step_name": "",
- "queue_len": 0,
+ "queue_len": 2,
  "eta": null,
  "done": 0,
  "ok": 0,
  "failed": 0,
- "logs": []
+ "logs": [
+  "[15"
+ ]
 }
