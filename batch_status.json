@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08 16:10:11",
+ "updated_at": "2026-08-08 16:10:50",
  "running": false,
  "current_title": "",
  "step_index": 0,
@@ -7,9 +7,9 @@
  "step_name": "",
  "queue_len": 0,
  "eta": 0,
- "done": 0,
+ "done": 1,
  "ok": 0,
- "failed": 0,
+ "failed": 1,
  "today_ok": 17,
  "elapsed": 0,
  "last_elapsed": 261,
