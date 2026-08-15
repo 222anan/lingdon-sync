@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15 15:58:15",
+ "updated_at": "2026-08-15 15:58:47",
  "running": true,
  "current_title": "",
  "step_index": 2,
@@ -11,7 +11,7 @@
  "ok": 36,
  "failed": 7,
  "today_ok": 107,
- "elapsed": 6976,
+ "elapsed": 7008,
  "last_elapsed": 7597,
  "logs": []
 }
