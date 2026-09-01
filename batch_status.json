@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-09-02 01:17:47",
+ "updated_at": "2026-09-02 01:18:17",
  "running": true,
  "current_title": "",
- "step_index": 12,
+ "step_index": 1,
  "step_total": 12,
  "step_name": "",
  "queue_len": 69,
- "eta": 6694,
+ "eta": 6550,
  "done": 19,
  "ok": 18,
  "failed": 1,
@@ -14,7 +14,7 @@
  "total_tasks": 1,
  "current_task": 1,
  "today_ok": 18,
- "elapsed": 2488,
+ "elapsed": 2518,
  "last_elapsed": 0,
  "logs": []
 }
