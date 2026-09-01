@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-02 00:14:53",
- "running": true,
+ "updated_at": "2026-09-02 00:15:08",
+ "running": false,
  "current_title": "",
  "step_index": 0,
  "step_total": 0,
@@ -15,6 +15,6 @@
  "current_task": 0,
  "today_ok": 0,
  "elapsed": 0,
- "last_elapsed": 800,
+ "last_elapsed": 0,
  "logs": []
 }
