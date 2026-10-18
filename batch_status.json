@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-18 21:53:32",
+ "updated_at": "2026-10-18 21:54:02",
  "running": true,
  "current_title": "",
- "step_index": 0,
+ "step_index": 2,
  "step_total": 12,
  "step_name": "",
  "queue_len": 40,
@@ -14,7 +14,7 @@
  "total_tasks": 2,
  "current_task": 1,
  "today_ok": 13,
- "elapsed": 1381,
+ "elapsed": 1412,
  "last_elapsed": 4756,
  "logs": []
 }
