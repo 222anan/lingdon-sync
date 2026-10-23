@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-10-23 23:04:19",
+ "updated_at": "2026-10-23 23:04:27",
  "running": false,
  "current_title": "",
  "step_index": 0,
  "step_total": 12,
  "step_name": "",
- "queue_len": 26,
+ "queue_len": 0,
  "eta": 0,
  "done": 2,
  "ok": 0,
